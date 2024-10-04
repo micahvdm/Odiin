@@ -47,7 +47,7 @@
 #include "app_config.h"
 #endif
 
-#include "custom_pitaya_go.h"
+#include "custom_pro.h"
 #include "usb/usb_config.h"
 
 // <h> nRF_Drivers
